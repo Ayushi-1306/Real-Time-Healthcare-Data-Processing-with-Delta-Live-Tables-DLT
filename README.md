@@ -1,14 +1,14 @@
-# Real-Time-Healthcare-Data-Processing-with-Delta-Live-Tables-DLT
-Real-Time Healthcare Data Processing with Delta Live Tables (DLT)
+# Real-Time-Healthcare-Data-Processing-with-Delta-Tables-DT
+Real-Time Healthcare Data Processing with Delta Tables 
 
-This repository contains a real-time data processing pipeline for healthcare data using Delta Live Tables (DLT) in Databricks. The project demonstrates how to build a scalable and efficient ETL pipeline that leverages Databricks’ advanced features for data processing and transformation.
+This repository contains a real-time data processing pipeline for healthcare data using Delta Tables  in Databricks. The project demonstrates how to build a scalable and efficient ETL pipeline that leverages Databricks’ advanced features for data processing and transformation.
 
 ## Tech Stack
 
 - **PySpark**
 - **Databricks**
 - **Delta Tables**
-- **Databricks Delta Live Tables (DLT) Workflow**
+- **Databricks Delta Tables  Workflow**
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ The primary objective of this project is to implement a real-time data processin
 
 ### Key Features
 
-- **Delta Live Tables (DLT)**: Uses DLT for managing and automating the data transformation process.
+- **Delta Tables **: Uses DLT for managing and automating the data transformation process.
 - **Data Stages**: Includes Bronze, Silver, and Gold stages to refine data quality.
 - **Real-Time Integration**: Integrates and processes real-time patient data.
 
