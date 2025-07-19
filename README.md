@@ -16,7 +16,7 @@ The primary objective of this project is to implement a real-time data processin
 
 ### Key Features
 
-- **Delta Tables **: Uses DLT for managing and automating the data transformation process.
+- **Delta Tables **: Uses Delta table for managing and automating the data transformation process.
 - **Data Stages**: Includes Bronze, Silver, and Gold stages to refine data quality.
 - **Real-Time Integration**: Integrates and processes real-time patient data.
 
