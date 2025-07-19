@@ -24,7 +24,7 @@ The primary objective of this project is to implement a real-time data processin
 
 1. **Data Ingestion**: Real-time healthcare data is ingested into the source raw Delta table.
 2. **Data Transformation**: A PySpark notebook processes the raw data, creating Bronze, Silver, and Gold Delta Live Tables.
-3. **Workflow Automation**: A Delta Live Table Workflow manages and automates the data transformation process.
+3. **Workflow Automation**: A Delta Table Workflow manages and automates the data transformation process.
 
 ## Setup Instructions
 
